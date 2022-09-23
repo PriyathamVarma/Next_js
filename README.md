@@ -6,3 +6,4 @@ There are different folders located each containing the information about the ne
 | Topic | 
 | - | 
 | [Installation and initial steps]() |
+| [Installation and initial steps]() |
