@@ -7,3 +7,8 @@ There are different folders located each containing the information about the ne
 | - | 
 | [Installation and initial steps]() |
 | [Installation and initial steps]() |
+
+
+## Official Docs
+
+[Official Docs](https://nextjs.org/docs/getting-started)
